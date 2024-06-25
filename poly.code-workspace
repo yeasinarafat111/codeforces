@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../poly"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"secandtrace": "c",
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
